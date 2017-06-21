@@ -12,4 +12,4 @@ AskOmics is currently maintained by the AskoTeam (in alphabetical order):
 - Xavier Garnier
 - Fabrice Legeai
 
-Don't hesitate to [write us](gogepp@inra.fr) for any information about AskOmics.
+Don't hesitate to [write us](mailto:gogepp@inra.fr) for any information about AskOmics.
