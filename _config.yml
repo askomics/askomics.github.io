@@ -1,1 +1,4 @@
 theme: jekyll-theme-dinky
+title: AskOmics
+description: Integration and querying of heterogenous data with RDF/SPARQL
+show_downloads: false
