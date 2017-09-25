@@ -25,7 +25,7 @@ github_username:  askomics
 
 # Build settings
 markdown: kramdown
-theme: primer
+theme: dinky
 plugins:
   - jekyll-feed
 
