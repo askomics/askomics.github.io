@@ -21,7 +21,7 @@ Download the latest stable version of AskOmics [here](https://github.com/askomic
 ```bash
 git clone https://github.com/askomics/askomics.git
 cd askomics
-git checkout 17.09
+git checkout 17.08
 ```
 
 
