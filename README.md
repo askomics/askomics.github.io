@@ -18,4 +18,4 @@ cd askomics.github.io
 bundle install # Only the first time
 bundle exec jekyll serve
 ```
-Website well be available at [localhost:4000](http://localhost:4000)
+Website will be available at [localhost:4000](http://localhost:4000)
